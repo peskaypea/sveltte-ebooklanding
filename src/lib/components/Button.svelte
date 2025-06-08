@@ -1,3 +1,7 @@
+<script>
+  let {children, ...props} = $props();
+</script>
+<button {...props}>{@render children()} </button>
 <style>
   button {
     background-color: black;
@@ -15,3 +19,4 @@
     color: black;
   }
 </style>
+
