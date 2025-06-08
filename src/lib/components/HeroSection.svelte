@@ -25,7 +25,7 @@
       calculating my cost of living, chossing an apartment. That's why I wrote
       this e-book, to tell you how I did it. No bullshit, no stress
     </p>
-    <Button onclick={() => console.log("clicked")}>Purchase E-book for $10</Button>
+    <Button class="mt-m" onclick={() => console.log("clicked")}>Purchase E-book for $10</Button>
   </div>
 </section>
 
