@@ -3,7 +3,7 @@
 </script>
 
 <section class="author-section">
-  <h2 class="mb-1">About the Author</h2>
+  <h2 class="mb-l">About the Author</h2>
   <div class="author-container">
     <div class="author-text">
       <p class="mb-xs">
